@@ -1,0 +1,11 @@
+Este es el contenido del archivo 1.txt.
+Este archivo puede contener información de prueba o cualquier otro tipo de datos.
+
+Datos de ejemplo:
+- Nombre: Juan Pérez
+- Edad: 30 años
+- Ciudad: Madrid
+- Profesión: Desarrollador de Software
+
+Comentarios:
+Este archivo es parte de una prueba para el repositorio.
