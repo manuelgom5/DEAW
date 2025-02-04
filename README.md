@@ -17,3 +17,11 @@ Este repositorio está destinado a la asignatura **Despliegue de Aplicaciones We
 -   `/scripts/` - Scripts utilizados para automatización y configuración.
 
 Este repositorio servirá como base para el aprendizaje y la aplicación de conocimientos en el despliegue de aplicaciones web.
+
+##  TABLA DE COMPAÑEROS
+
+|    **NOMBRE**    |    **GITHUB**				|
+|------------------|--------------------------------------------| 
+| Alfonso Ramírez  | [GitHub Alfonso](https://github.com/arammes003/)	|
+| Adrián Velasco   | [GitHub Adrián](https://github.com/adriDevelop)   |
+| Alejandro Ruíz   | [GitHub Alejandro](https://github.com/a22rucral)  |
